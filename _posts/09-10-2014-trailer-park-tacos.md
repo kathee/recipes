@@ -16,3 +16,4 @@ color: yellow
 - Salsa
 - Onions
 - Pickles
+- Sriracha
